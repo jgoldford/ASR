@@ -203,7 +203,7 @@ def appendAttributesToNodes(fileIn,treeFile):
 			item = round(item,3)
 			item = str(item)
 		new_tree_line = new_tree_line+item
-	print new_tree_line
+	print(new_tree_line)
 
 
 

@@ -11,7 +11,7 @@ setup(
 	install_requires = [
 		'scipy',
 		'numpy',
-		'pandas'
+		'pandas',
 		'biopython'],
 	include_package_data = True,
 )
